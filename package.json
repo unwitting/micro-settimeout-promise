@@ -11,5 +11,6 @@
     "timer"
   ],
   "author": "Jack Preston <unwttng@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/unwitting/micro-settimeout-promise"
 }
