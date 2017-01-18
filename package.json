@@ -1,0 +1,15 @@
+{
+  "name": "micro-settimeout-promise",
+  "version": "1.0.0",
+  "description": "Micro (57 byte) wrapper for setTimeout as an ES6 Promise",
+  "main": "w.js",
+  "keywords": [
+    "settimeout",
+    "promise",
+    "wait",
+    "sleep",
+    "timer"
+  ],
+  "author": "Jack Preston <unwttng@gmail.com>",
+  "license": "ISC"
+}
